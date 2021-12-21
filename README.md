@@ -1,6 +1,6 @@
 Hi, I’m Kyle Robinson, although I'm mostly called Kylo 👋 
 
-## My Profession
+## Javascript Developer
 
 My expertise is in all things Javascript.
 
